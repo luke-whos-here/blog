@@ -41,7 +41,8 @@ incremental         : false
 # Serving
 detach              : false
 port                : 4000
-url                 : "https://luke-whos-here.github.io/blog"
+host                : 127.0.0.1
+url                 : "https://luke-whos-here.github.io"
 baseurl             : "/blog"
 show_dir_listing    : false
 
