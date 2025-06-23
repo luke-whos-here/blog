@@ -1,4 +1,7 @@
 ---
+layout: "default"
+title: "Time to lean"
+date: "2025-06-20"
 ---
 Of late, "lean" seems to be making a comeback as a top pick among corporate buzzwords.
 
