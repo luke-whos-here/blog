@@ -1,7 +1,8 @@
 ---
-layout: "default"
+layout: "post"
 title: "Time to lean"
 date: "2025-06-20"
+author: "Luke"
 ---
 Of late, "lean" seems to be making a comeback as a top pick among corporate buzzwords.
 
