@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
 
 # Site Settings
 locale                   : "en-US"
@@ -21,7 +21,7 @@ title                    : "Luke Who's Here"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Luke"
-description              : "The personal blog of Luke, technical writer by day, hobbyist paint mixer by night."
+description              : "The personal blog of Luke, technical writer by day, aspirant comic artist by night."
 url                      : "https://luke-whos-here.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/blog"  # the subpath of your site, e.g. "/blog"
 repository               : "luke-whos-here/blog" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,8 +115,8 @@ analytics:
 # Site Author
 author:
   name             : "Luke"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Technical writer by day, hobbyist paint mixer by night."
+  avatar           : "/assets/images/profile-pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Technical writer by day, aspirant comic artist by night."
   location         : "London, UK"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
@@ -135,7 +135,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/luke-whos-here"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/yiu-luke-9ab802167/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
