@@ -1,20 +1,4 @@
 ---
-title: Luke Who's Here
+layout: home
+author_profile: true
 ---
-<!DOCTYPE html>
-<html>
-    <head>
-      <meta charset="utf-8">
-      <title>{{ page.title }}</title>
-    </head>
-    <body>
-        <p>Posts</p>
-        <ul>
-          {% for post in site.posts %}
-            <li>
-              <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a>
-            </li>
-          {% endfor %}
-        </ul>
-    </body>
-</html>
