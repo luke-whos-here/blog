@@ -11,3 +11,5 @@ I suspect more than a few of you likely to be reading this post have, in recent 
 But there is a deeper, older, more primordial part of my brain. The part that knows what the staff-only area of a McDonald's looks like.
 
 And it's calling out. "GOT TIME TO LEAN, GOT TIME TO CLEAN."
+
+![Image]({{ site.baseurl }}/assets/images/2025-06-20-time-to-lean.jpg){: width="400" .align-center}
